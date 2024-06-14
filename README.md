@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRmWczyKMY5af6ItJqNIHBwneJ1hhm_cQgA&s" align="center" style="width: 30%" />
+<img width="94" height="94" src="https://img.icons8.com/external-bearicons-flat-bearicons/64/external-Welcome-miscellany-texts-and-badges-bearicons-flat-bearicons.png" alt="external-Welcome-miscellany-texts-and-badges-bearicons-flat-bearicons"/>
 </div>  
   
 
