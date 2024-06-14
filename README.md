@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRmWczyKMY5af6ItJqNIHBwneJ1hhm_cQgA&s" align="center" style="width: 100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRmWczyKMY5af6ItJqNIHBwneJ1hhm_cQgA&s" align="center" style="width: 30%" />
 </div>  
   
 
